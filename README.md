@@ -3,5 +3,5 @@ This repository contains all the course materials and assignments related to the
 
 # contents
 
-**Assignments**: Assignments given during the course to reinforce learning and practice HTML coding.
+**Assignments**: Assignments given during the course to reinforce learning and practice HTML coding.  
 **Code Samples**: Sample HTML code snippets and examples demonstrated during lectures.
